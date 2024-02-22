@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BNPL Order place with coupon and semaai points in single seller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e07ea46-475c-462e-a774-3ecc2e88282d</testCaseGuid>
+</TestCaseEntity>

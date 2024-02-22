@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BNPL order place with semaai points in single seller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ada65b69-974d-4eee-b098-d9f623555b25</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BNPL order place with coupon in single seller</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a310056d-d15a-44ac-b8ef-24c4d771241d</testCaseGuid>
+</TestCaseEntity>
